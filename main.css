@@ -118,3 +118,11 @@ nav{
     opacity: 1;
     text-decoration: none;
   }
+
+
+footer{
+    border: 1px solid blue;
+    font-family: arial;
+    text-align: center;
+    
+}
